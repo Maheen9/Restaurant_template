@@ -1,9 +1,6 @@
 # Restaurant_template
 Restaurant_template is a landing page html template built with HTML, CSS and JavaScript. Which helps you to create your own Restaurant website to either attain customers or publisize your own restaurant.
 
-## Demo:
-Click this link for a live demo : <a href="">View a Demo here</a>
-
 ## Credits:
 <ul>
 <li><a href="https://github.com/micku7zu/vanilla-tilt.js/">Vanilla Tilt</a></li>
